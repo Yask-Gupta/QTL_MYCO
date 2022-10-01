@@ -9,5 +9,5 @@ The mammalian gut is a home to a diverse microbial ecosystem, whose composition 
 
 **INDEX**
 
-Compositional analysis of Fungi is in script folder "CompositionAnalysisMyco.R".
+Compositional analysis of Fungi is in script folder **"CompositionAnalysisMyco.R"**.
 Please install R libraries indicspecies, pheatmap, phyloseq, reshape2, ggplot2, vegan, ggpubr, MANOVA.RM before running the script. 
