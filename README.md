@@ -43,6 +43,6 @@ To run the R scripts the several packages need to be installed within R. These i
 + lmer
 
 To run perl scripts Perl should be installed in the system.
-
+## Demo and Usage
 Compositional analysis of Fungi is in script folder **"CompositionAnalysisMyco.R"**.
 Please install R libraries before running the script. 
