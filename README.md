@@ -38,6 +38,9 @@ To run the R scripts the several packages need to be installed within R. These i
 + ggpubr
 + MANOVA.RM
 + DOQTL
++ DESeq2
++ lme4
++ lmer
 
 To run perl scripts Perl should be installed in the system.
 
