@@ -38,6 +38,7 @@ To run the R scripts the several packages need to be installed within R. These i
 + ggpubr
 + MANOVA.RM
 + DOQTL
+
 To run perl scripts Perl should be installed in the system.
 
 Compositional analysis of Fungi is in script folder **"CompositionAnalysisMyco.R"**.
