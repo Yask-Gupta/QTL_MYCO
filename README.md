@@ -68,3 +68,5 @@ QTL analysis of Microbiome (DNA) can be performed using script **"MicroDNAPhylum
 QTL analysis of Microbiome (RNA) can be performed using script **"MicroRNAPhylumTospecies.R"** in script folder.
 
 The analysis will produce several RData file which will be stored in cuurent directory. Permutations and calculation of phenotypic variation has been coded within the scripts. 
+
+**Installation time is within minutes and execution time may vary from system to system (several minutes). Permutations are computationally expensive and best suited for server**
