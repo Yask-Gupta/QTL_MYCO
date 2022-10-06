@@ -29,20 +29,20 @@ For performing permuation in QTL analysis server (CentOS) from University of Lub
 ### Dependencies
 
 To run the R scripts the several packages need to be installed within R. These include:
-+ indicspecies
-+ pheatmap
-+ phyloseq
-+ reshape2
-+ ggplot2
-+ vegan
-+ ggpubr
-+ MANOVA.RM
-+ DOQTL
-+ DESeq2
-+ lme4
-+ lmer
++ indicspecies (v1.7.12)
++ pheatmap (v1.0.12)
++ phyloseq (v1.40.0)
++ reshape2 (v1.4.4)
++ ggplot2 (v3.3.6)
++ vegan (v2.6.2)
++ ggpubr (v0.4.0)
++ MANOVA.RM (v0.5.3)
++ DOQTL (v1.19.0) : https://rdrr.io/bioc/DOQTL/
++ DESeq2 (v1.36.0)
++ lme4 (v1.1.30)
 
 To run perl scripts Perl should be installed in the system.
 ## Demo and Usage
+The repository can be cloned in 
 Compositional analysis of Fungi is in script folder **"CompositionAnalysisMyco.R"**.
 Please install R libraries before running the script. 
