@@ -43,6 +43,28 @@ To run the R scripts the several packages need to be installed within R. These i
 
 To run perl scripts Perl should be installed in the system.
 ## Demo and Usage
-The repository can be cloned in 
-Compositional analysis of Fungi is in script folder **"CompositionAnalysisMyco.R"**.
-Please install R libraries before running the script. 
+The repository can be cloned in local machine using :
+
+git clone https://github.com/Yask-Gupta/QTL_MYCO.git
+
+Please copy the RData file (QTLRelInputHglm.RData) from the link provided above to Robj folder for execution of the code.
+
+### Compositional analysis 
+Compositional analysis of Fungi can be performed using script **"CompositionAnalysisMyco.R"** in script folder.
+
+Compositional analysis of Microbiome (DNA) can be performed using script **"CompositionAnalysisMicroDNA.R"** in script folder.
+
+Compositional analysis of Microbiome (RNA) can be performed using script **"CompositionAnalysisMicroRNA.R"** in script folder.
+
+All the output file and figures will be generated in output folder.
+
+#### QTL analysis
+This analysis is computationally expensive due to permuation. The analysis requires minimum of 128 GB ram and it was executed on the server.
+
+QTL analysis of Fungi can be performed using script **"MycoQTLPhylumTospecies.R"** in script folder.
+
+QTL analysis of Microbiome (DNA) can be performed using script **"MicroDNAPhylumTospecies.R"** in script folder.
+
+QTL analysis of Microbiome (RNA) can be performed using script **"MicroRNAPhylumTospecies.R"** in script folder.
+
+The analysis will produce several RData file which will be stored in cuurent directory. Permutations and calculation of phenotypic variation has been coded within the scripts. 
